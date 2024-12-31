@@ -4,12 +4,12 @@ A data visualization project analyzing Portugal's real estate market using Power
 
 ## Features:
 
-() Interactive dashboards
-() Market trend analysis
-() Regional price comparisons
-() Insights into real estate investments
+* Interactive dashboards
+* Market trend analysis
+* Regional price comparisons
+* Insights into real estate investments
 
 ## Technologies Used:
 
-() Power BI
-() Data visualization techniques
+* Power BI
+* Data visualization techniques
